@@ -9,7 +9,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 
 
-class gsheets():
+class ggsheets():
 
     def __init__(self, credentials_file="credentials.json"):
         pass

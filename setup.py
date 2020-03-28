@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="gsheets-efbbrown",
+    name="ggsheets-efbbrown",
     version="0.0.1",
     author="Eugene Brown",
     author_email="efbbrown@gmail.com",
